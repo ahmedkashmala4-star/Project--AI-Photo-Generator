@@ -14,9 +14,6 @@ An AI-powered web application that transforms standard product photos into profe
 * **AI Model:** SDXL via Hugging Face Inference API
 * **Image Processing:** PIL (Pillow)
 
-## 🏗️ Architecture
-![Architecture Diagram](assets/AI_Photo_Generator_Architecture.png)
-
 ## 📦 Installation
 1. Clone the repo:
    ```bash
