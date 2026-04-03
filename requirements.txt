@@ -1,0 +1,8 @@
+streamlit
+diffusers
+transformers
+accelerate
+torch
+pillow
+requests
+huggingface_hub  
